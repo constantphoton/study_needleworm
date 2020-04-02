@@ -156,3 +156,12 @@ https://www.foxnews.com/us/nyc-hospitals-refrigerated-trucks-temporary-morgues
 게시자: The New York Times, 3월 26일.
 https://www.youtube.com/watch?v=bE68xVXf8Kw
 
+
+The US intelligence community has reportedly concluded that China intentionally misrepresented its coronavirus numbers
+Sonam Sheth and Isaac Scher 14 hours ago
+
+https://www.businessinsider.com/us-intelligence-found-china-misrepresented-coronavirus-stats-report-2020-4
+
+
+Nobel Prize-winning economist Paul Krugman says we are ignoring a 'huge fiscal time bomb' set to detonate when the pandemic subsides
+https://www.businessinsider.com/paul-krugman-warns-of-fiscal-time-bomb-if-relief-insufficient-2020-4
