@@ -1,5 +1,6 @@
 依文服饰股份有限公司
 
+## " "
 sensitivity : A kit can exclusively detect a person who has pathogen.
 specificity : A kit can exclusively detect a person who doesn't have pathogen.
 
