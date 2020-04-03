@@ -16,7 +16,7 @@ We can draw a square or a line, may be a cube for a certain problem, for each pr
 For this problem, we can draw a square, which has length 1 edges.
 
 | 0.02 | 0.98 | __99.99%__ |
-| --- | --- |
+| --- | --- | --- |
 | 0.99 | 0.01 | __0.01%__ |
 
 this square can be divided into 2 sections of 0.01%(=variable) and 0.99%(=1-variable).
