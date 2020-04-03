@@ -15,9 +15,9 @@ Say
 We can draw a square or a line, may be a cube for a certain problem, for each probability problem.
 For this problem, we can draw a square, which has length 1 edges.
 
-| 0.02 | 0.98 |
+| 0.02 | 0.98 | __99.99%__ |
 | --- | --- |
-| 0.99 | 0.01 |
+| 0.99 | 0.01 | __0.01%__ |
 
 this square can be divided into 2 sections of 0.01%(=variable) and 0.99%(=1-variable).
 each section stands for a group which really has pathogen(0.01)
@@ -31,3 +31,11 @@ another for don't have pathogen(0.99)
 So we have to make the size of variable(0.01% in this case) much more bigger to expect "good test"
 
 ## Generalization
+Sensitivity : 0.4
+Specificity : 0.9
+portion of x truly has virus.
+Problem : If a person tested positive, does he/she really have pathogen?
+
+| 0.02 | 0.98 |
+| --- | --- |
+| 0.99 | 0.01 |
