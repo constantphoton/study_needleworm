@@ -36,6 +36,29 @@ Specificity : 0.9
 portion of x truly has virus.
 Problem : If a person tested positive, does he/she really have pathogen?
 
-| 0.02 | 0.98 |
-| --- | --- |
-| 0.99 | 0.01 |
+| 0.02 | 0.98 | __1-x__ |
+| --- | --- | --- |
+| 0.99 | 0.01 | __x__ |
+
+P(infected | tested positive) = 0.4x / ( 0.4x + 0.1(1-x) )
+
+if we plot this graph, we can get 50% confidence level at x=0.2
+this means Doctor's opinion does enormous role for us to have bigger x 
+
+Furthurmore, We can get
+P(infected | tested negative ) = 0.6x / ( 0.9(1-x) + 0.6x )
+
+for False negative.
+If a person tested negative for 7 times and tested positive at 8th test,
+the possibility is
+
+for i = 1:7
+   m = 0.6*z ./ (0.6*z + 0.9*(1-z))
+   z= m
+endfor
+
+Probability = (0.4*z)./ (0.4*z+0.1*(1-z))
+
+
+
+
