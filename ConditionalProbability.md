@@ -84,4 +84,11 @@ sensitivity 99%
 specificity 91%
 
 
+JP, Jan 23th, 0.12 billion&1M =~ 0.08=x
+p(infected|test-posi) = 0.99x / ( 0.99x + 0.09(1-x) )
+p(infected | test-nega ) = 0.01x / ( 0.01x + 0.91(1-x) )
 
+
+if R0=3
+4weeks 20th Feb. 
+0.12B&8.1M=~0.64
