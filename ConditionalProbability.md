@@ -60,5 +60,28 @@ endfor
 Probability = (0.4*z)./ (0.4*z+0.1*(1-z))
 
 
+## References
+
+https://www.technologyreview.com/s/615323/why-the-cdc-botched-its-coronavirus-testing/
+So how exactly does the CDC, of all places, goof up something so tried and true?
+
+
+https://www.jnto.go.jp/jpn/statistics/visitor_trends/
+月別推計値
+1월 방일 중국인 약 100만 명
+
+
+3rd, April
+https://www.biospace.com/article/releases/20-20-bioresponse-to-launch-rapid-coronavirus-test-kits-in-u-s-following-green-light-from-fda/
+15 minutes do draw results.
+high sensitivity ~97%k, specificity ~92%
+
+
+https://www.theverge.com/2020/4/2/21204478/fda-authorization-coronavirus-antibody-test-diagnostic-covid-19
+https://www.massdevice.com/fda-clears-cellex-antibody-test-for-covid-19-not-bodyspheres/
+FDA authorized use of antibody test kit of CELLEX 
+sensitivity 99%
+specificity 91%
+
 
 
