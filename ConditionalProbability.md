@@ -22,6 +22,6 @@ this square can be divided into 2 sections of 0.01%(=variable) and 0.99%(=1-vari
 each section stands for a group which really has pathogen(0.01)
 another for don't have pathogen(0.99)
 
-( 0.01/100 * 99/100 ) / (99.99/100*2/100 + 0.01/100*99/100)
+( 0.01/100 * 99/100 ) / (99.99/100*2/100 + 0.01/100 * 99/100)
 
 =~0.0049
