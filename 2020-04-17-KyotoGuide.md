@@ -2,7 +2,7 @@
 title: kyotoUnive master's
 ---
 
-This is a H1 Abstract
+This is an H1 Abstract
 
 May : regular course start
 November : foreigner course start
