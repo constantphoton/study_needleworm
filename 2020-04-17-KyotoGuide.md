@@ -5,6 +5,12 @@ title: kyotoUnive master's
 Abstract
 ============
 
+<br/>
+<br/>
+<https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95>
+<br/>
+<br/>
+
 > May : regular course start
 >
 > November : foreigner course start
@@ -54,7 +60,6 @@ Recent Foreigner Course
 > >Guidelines for International Applicants to the 2020 Master's Course Program)
 > >
 > ><https://www.t.kyoto-u.ac.jp/ja/admissions/graduate/exam1/01masterinternational2020>
-
 
 Recent Regular course
 ---
