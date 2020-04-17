@@ -1,7 +1,12 @@
-Abstract
-May : 
+---
+title: kyotoUnive master's
+---
 
-kyotoUnive master's
+##Abstract
+May : regular course start
+November : foreigner course start
+
+##Recent Foreigner Course
 
 2019.11.13 입시 공지사항 업로드
 ・2020年度修士課程外国人留学生学生募集要項
@@ -25,7 +30,8 @@ Guidelines for International Applicants to the 2020 Master's Course Program)
 https://www.t.kyoto-u.ac.jp/ja/admissions/graduate/exam1/01masterinternational2020
 
 
----===---===---===---===
+##Recent Regular course
+
 2019.05.07 모집 요강 업로드
 ・2020年度　修士課程学生募集要項（夏実施分）
 ・2019年度10月期入学　博士後期課程学生募集要項（夏実施分）
