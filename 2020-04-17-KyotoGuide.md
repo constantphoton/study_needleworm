@@ -6,8 +6,7 @@ Abstract
 ============
 
 >May : regular course start
-
->November : foreigner course start
+> >November : foreigner course start
 
 Recent Foreigner Course
 ---
