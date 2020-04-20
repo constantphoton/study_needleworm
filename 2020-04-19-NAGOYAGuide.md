@@ -105,3 +105,10 @@ For 2020
 
 **2019.09.13 合格者発 表**
 2020年3月中旬 入学手続
+
+<br/>
+
+Novel Coronavirus Outbreak
+---
+
+<http://www.nagoya-u.ac.jp/info/covid-19.html#single-title>
