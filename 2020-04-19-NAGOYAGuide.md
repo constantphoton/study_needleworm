@@ -2,6 +2,18 @@
 Title: Nagoya Univ
 ---
 
+Abstract
+---
+
+<https://www.engg.nagoya-u.ac.jp/en/admissions/g_admissions.php>
+
+Announcement date of application : April 18, 2019
+
+Date of Application : June 19 to June 20 or July 16 to 19, 2019
+
+Date of Examination : August 27 to 30, 2019
+
+
 For 2020
 
 2020年度本研究科博士前期課程（修士課程として取り扱う課程）に入学させる学生を下記により募集する
