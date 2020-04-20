@@ -7,6 +7,8 @@ Abstract
 
 <https://www.engg.nagoya-u.ac.jp/en/admissions/g_admissions.php>
 
+<https://www.engg.nagoya-u.ac.jp/en/admissions/g_admissions.php>
+
 Announcement date of application : April 18, 2019
 
 Date of Application : June 19 to June 20 or July 16 to 19, 2019
