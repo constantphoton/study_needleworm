@@ -2,6 +2,8 @@
 title: Tohoku University
 ---
 
+<https://www.eng.tohoku.ac.jp/admission/grad/master.html>
+
 Abstract
 For 2021.April 令和3年 4月入学
 ---
