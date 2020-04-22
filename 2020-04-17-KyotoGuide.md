@@ -7,7 +7,15 @@ Abstract
 
 <br/>
 
+<http://www.kyoto-u.ac.jp/ja/international/students1/study1/graduate/graduateinfo/ku-aao/index.html/>
+
+**신청 4개월 전에 AAO에 신청해야 함.**
+
+<br/>
+
 <https://velog.io/@yuuuye/velog-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown-%EC%9E%91%EC%84%B1%EB%B2%95>
+
+<https://www.t.kyoto-u.ac.jp/ja/admissions/graduate/exam1>
 
 <br/>
 
