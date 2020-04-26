@@ -74,3 +74,10 @@ MEXT 페이지 접속이 안된다.
 
 他大学の途中年次に在籍する者に対する本学への編入学は実施しておりません。
 
+
+
+<https://htnanote.tistory.com/entry/%EC%9D%BC%EB%B3%B8%EC%97%90-%EC%B2%98%EC%9D%8C-%EC%98%A4%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9D%B4%EB%93%9C-3-%ED%86%B5%EC%9E%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0?category=600530>
+
+<http://www.kyoto-u.ac.jp/ko/research/international/publications/documents/ag/2018_2017/h29-ag-k-3-mext.pdf>
+
+<https://www.jasso.go.jp/en/study_j/scholarships/shoureihi/about.html>
