@@ -37,8 +37,11 @@ Dept of Chemistry and biotechnology
 RNA 전사 후 과정
 
 유전암호의 해독과 단백질 합성
+
 에피트랜스 크립톤과 고차 생명현상
+
 RNA 수식병의 발병 메카니즘
+
 왕복순환 그로마토그래피와 RNA 매스 스펙트로메트리
 
 
