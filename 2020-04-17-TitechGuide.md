@@ -5,6 +5,13 @@ title: Titech
 Titech
 ===
 
+Lab
+---
+Takinoue
+
+Fujie
+
+
 Abstract
 ---
 
