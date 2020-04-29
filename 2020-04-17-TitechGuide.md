@@ -9,8 +9,11 @@ Lab
 ---
 Takinoue
 
+>School of Life Science and Technology - Department of Life Science and Technology
+
 Fujie
 
+>School of Life Science and Technology - Department of Life Science and Technology
 
 Abstract
 ---
