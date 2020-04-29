@@ -246,3 +246,8 @@ japan
 
 >1984년 생 - 03학번 - 2011April 도일 - 2013Mar MS degree - 2016.6.29 고도1호 - 2018.Jul신청 2018.Feb 영주권획득
 
+MEXT
+---
+日本政府と国交のある国の国籍を有すること
+
+https://blog.naver.com/sweethime31/221909869298
