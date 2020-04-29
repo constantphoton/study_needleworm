@@ -11,6 +11,7 @@ Exam : 대학별로 다름
 MEXT 페이지 접속이 안된다.
 집에서 시도할 것.
 
+https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415352.htm
 
 **tokyo**
 >2019.07.02(화) 지원
