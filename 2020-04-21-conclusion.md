@@ -32,6 +32,8 @@ https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415352.htm
 
 **kyoto**
 
+>  <https://www.t.kyoto-u.ac.jp/ja/admissions/graduate/exam1>
+>
 >2019.01.27 AAO
 >
 >2019.05.27(월) 지원
