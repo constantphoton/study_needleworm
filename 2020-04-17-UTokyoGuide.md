@@ -54,6 +54,11 @@ RNA 수식병의 발병 메카니즘
 
 **kato**
 
+**Tsumoto**
+
+http://park.itc.u-tokyo.ac.jp/phys-biochem/research/
+
+
 
 Dept of Bioengineering
 ---
