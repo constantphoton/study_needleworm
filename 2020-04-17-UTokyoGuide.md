@@ -32,6 +32,9 @@ phD/MS ratio, publication, concepts were considered.
 Dept of Chemistry and biotechnology
 ---
 
+http://www.chembio.t.u-tokyo.ac.jp/e/faculty/
+
+
 **suzuki lab**
 
 RNA 전사 후 과정
@@ -52,5 +55,7 @@ RNA 수식병의 발병 메카니즘
 **kato**
 
 
-Dept of 
+Dept of Bioengineering
 ---
+
+http://www.bioeng.t.u-tokyo.ac.jp/en/overview/index.html
