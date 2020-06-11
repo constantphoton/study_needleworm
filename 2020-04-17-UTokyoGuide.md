@@ -32,7 +32,7 @@ phD/MS ratio, publication, concepts were considered.
 Dept of Chemistry and biotechnology
 ---
 
-http://www.chembio.t.u-tokyo.ac.jp/e/faculty/
+http://www.chembio.t.u-tokyo.ac.jp/e/department/lab/index.html
 
 
 **suzuki lab**
