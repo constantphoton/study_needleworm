@@ -34,6 +34,7 @@ Dept of Chemistry and biotechnology
 
 http://www.chembio.t.u-tokyo.ac.jp/e/department/lab/index.html
 
+**Hongo campus**
 
 **suzuki lab**
 
