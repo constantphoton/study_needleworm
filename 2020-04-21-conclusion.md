@@ -95,24 +95,37 @@ https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1415352.htm
 <https://www.jasso.go.jp/en/study_j/scholarships/shoureihi/about.html>
 
 
-tarou2
-
-西尾雄太
-
-シワスタカシ
-
-TMLV
-
-maruco
-
-https://twitter.com/Kalbi_9
-
 
 **OKaNe**
 ===
 
 2년 버티기(vers.2020.April)
 ---
+
+**한달 필요 비용**
+
+Ref : 
+
+<https://www.osaka-u.ac.jp/sp/whyou/admission/fees/> 오사카 univ
+
+<https://peak.c.u-tokyo.ac.jp/fees_scholarships/l3/Vcms3_00000197.html> 도쿄대 펠로 장학금
+
+
+O. food Approximately ¥30,000 per month
+
+O. Transportation Approximately ¥5,000 ~ ¥15,000 per month
+
+O. General school-related expenses. ¥6,000
+
+O. Misc. personal expenses 	Up to ¥30,000
+
+% U-tokyo reckon summation of those expenses at about ¥60,000 / month
+
+O. off campus private housing : ¥70,000+a / month (tokyo)
+
+O.  International Lodge Komaba Lodge (Main, B, C, D) : ¥40,000 / month (tokyo)
+
+You are expected to participate in National Health Insurance. In that case, you are responsible for 30% of any medical expenses you incur. (Unless the problem is rare or extreme, a 30% out-patient hospital bill is probably a fairly nominal figure.) 
 
 **입학비**
 >
