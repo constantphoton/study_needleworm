@@ -2,6 +2,12 @@
 title: kyotoUnive master's
 ---
 
+지원할 때 추천서가 필요함
+---
+
+그런데 애초에 MEXT 지원할 때도 추천서가 필요함
+
+
 Abstract
 ============
 
