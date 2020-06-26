@@ -4,6 +4,30 @@ title: Tohoku University
 
 <https://www.eng.tohoku.ac.jp/admission/grad/master.html>
 
+
+결론
+---
+
+O. 연구분야=지도교수 = good
+
+O. 장학금 (financial aid) = Fail
+
+O. 학교 이름 = Good
+
+
+
+OKaNe
+---
+
+1. MEXT
+
+2. Monbukagakusho Honors Scholarship
+
+3. JASSO
+
+4. 그외는 일본 국적자 한정
+
+
 Abstract
 For 2021.April 令和3年 4月入学
 ---
