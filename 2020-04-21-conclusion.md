@@ -1,4 +1,6 @@
 
+연구분야 : 단백질공학 - RNA 전사 가지고 놀기, DNA epigenetics
+
 영어 : TOEIC, TOEFL (완료)
 
 돈 : Y30,000
