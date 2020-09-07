@@ -7,6 +7,11 @@ title: kyotoUnive master's
 
 그런데 애초에 MEXT 지원할 때도 추천서가 필요함
 
+京都大学大学院　過去問題
+ーーー
+
+https://www.sc.t.kyoto-u.ac.jp/ja/admission/exam
+
 
 Abstract
 ============
