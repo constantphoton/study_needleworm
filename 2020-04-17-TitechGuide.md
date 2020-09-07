@@ -3,7 +3,49 @@ title: Titech
 ---
 
 Titech
-===
+====
+---
+
+historical problems and solvings.
+
+
+https://www.titech.ac.jp/graduate_school/admissions/past_exam_papers.html
+
+
+
+
+2020.08.12
+---
+
+https://educ.titech.ac.jp/bio/news/2020_08/059514.html
+
+remote-admission interview.
+
+https://educ.titech.ac.jp/bio/admissions/
+
+
+https://www.titech.ac.jp/graduate_school/news/2020/047392.html
+
+日本政府の新型コロナウイルス感染症対策に伴い、Ｂ日程筆答試験受験者は8月3日まで、
+英語特別団体試験受験者は8月2日までに来日している必要があります。
+
+法務省ＨＰで該当する国・地域に在住・滞在する方で、試験日に来学できない方は、
+7月29日までに下記「回答ページ」よりお申し出ください。
+
+法務省 - 新型コロナウイルス感染症の拡大防止に係る上陸拒否等について 
+
+
+to participate in admission interview, you need to come to japan.
+
+https://www.titech.ac.jp/graduate_school/news/2020/047353.html
+
+IF you were in your country(outside japan) when you were applying.
+
+日本政府の新型コロナウイルス感染症対策に伴い、Ｂ日程筆答試験（8月18日）及び英語特別団体試験（8月17日）の際、試験日に来学できない場合があります。
+入国後14日間は、宿泊施設等で待機することを要請されていることから、以下外務省海外安全ホームページ等でご確認の上、来学スケジュールをあらかじめ検討しておいてください。
+
+https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2020C052.html
+（外務省海外安全ＨＰ：出入国管理及び難民認定法に基づき上陸拒否を行う対象地域）
 
 
 OKaNe
