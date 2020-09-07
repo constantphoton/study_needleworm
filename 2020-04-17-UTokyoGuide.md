@@ -16,6 +16,22 @@ OKaNe
     
     민간단체 장학금
 
+2020.08.10
+---
+
+2020.8.8
+オンライン筆記試験に向けた受験者心得を掲載しました。ファイルをダウンロードして、熟読してください。
+ダウンロード用のパスワードは解答用紙と同じです。
+
+オンライン筆記試験受験者心得（化生）／Notice_for_Examination(ChemBio)
+
+online-written exam
+
+
+http://www.chembio.t.u-tokyo.ac.jp/graduate/exam/pastexam.html
+
+previous problems and solutions.
+
 
 Abstract
 ---
