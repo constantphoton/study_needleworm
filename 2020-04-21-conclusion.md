@@ -3,7 +3,7 @@
 
 연구실 정하기의 우선순위 : 연구분야=지도교수 > 장학금 > 학교 레벨
 
-영어 : TOEIC, TOEFL (완료)
+영어 : TOEIC, TOEFL(UTokyo, UKyoto 원입시험시 함께 수험 가능, Titech:toeic, toefl) (완료)
 
 돈 : Y30,000
 
