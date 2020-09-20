@@ -12,6 +12,46 @@ historical problems and solvings.
 https://www.titech.ac.jp/graduate_school/admissions/past_exam_papers.html
 
 
+2020.09.20
+---
+
+결론: 일본에 입국할 필요는 없었다. (A,B 일정 모두)
+
+Titech 生命理工学系
+
+入国後14日間は、宿泊施設等で待機することを要請されていることから、以下外務省海外安全ホームページ等でご確認の上、来学スケジュールをあらかじめ検討しておいてください。
+
+https://www.anzen.mofa.go.jp/info/pcwideareaspecificinfo_2020C052.html
+
+（外務省海外安全ＨＰ：出入国管理及び難民認定法に基づき上陸拒否を行う対象地域）
+
+A日程 Jul.21st, 9am ZOOM-0集合室 (2020.07.13 released)
+
+遠隔実施
+
+
+B日程口述試験・口頭試問の詳細 (2020.08.12 released)
+
+B日程は遠隔で実施します。
+
+日本政府の新型コロナウイルス感染症対策に伴い、Ｂ日程筆答試験受験者は8月3日まで、
+
+英語特別団体試験受験者は8月2日までに来日している必要があります。
+
+
+B日程
+
+Aug.18th(Tue) 9am 口述試験ZOOM-0集合室
+
+Aug.27th(Wed) 9am 口頭試問ZOOM-0集合室
+
+B日程対象者は、全員、両日ともに受験いただく必要があります。
+
+
+登録制zoomペ-ジ
+
+
+결국은 일본에 입국할 필요는 없었다.
 
 
 2020.08.12
