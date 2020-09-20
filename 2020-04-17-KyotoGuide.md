@@ -2,6 +2,14 @@
 title: kyotoUnive master's
 ---
 
+
+영어
+---
+
+https://www.t.kyoto-u.ac.jp/ja/admissions/graduate/exam1/masterinternational2020/112
+
+TOEFL or TOEIC
+
 지원할 때 추천서가 필요함
 ---
 
