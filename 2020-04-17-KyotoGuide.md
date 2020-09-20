@@ -3,6 +3,32 @@ title: kyotoUnive master's
 ---
 
 
+2020.09.20
+---
+
+원격시험 하지 않는듯 보인다.
+
+
+合成・生物化学専攻
+
+大学院入試 
+
+https://www.sc.t.kyoto-u.ac.jp/ja/admission/exam/index.html
+
+
+https://www.t.kyoto-u.ac.jp/ja/admissions/graduate/exam1/master2021/109
+
+
+先端化学専攻群の受験生全員に対して口頭試問を行う。
+
+8月21日（金）午前8時45分までに受験票交付時に指示する口頭試問控室に集合すること。
+
+口頭試問控室で「連絡先届」用紙を配付するので、口頭試問後の連絡先を明記して控室の担当教員に提出すること。
+
+同届を提出しなか
+
+
+
 영어
 ---
 
