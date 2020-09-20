@@ -10,6 +10,9 @@ https://www.t.kyoto-u.ac.jp/ja/admissions/graduate/exam1/masterinternational2020
 
 TOEFL or TOEIC
 
+
+https://www.sc.t.kyoto-u.ac.jp/ja
+
 지원할 때 추천서가 필요함
 ---
 
