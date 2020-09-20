@@ -6,7 +6,29 @@ title: "U-TokyoGuide"
 HP
 ---
 
+정보가 모두에게 공개된 것이 아니라 볼 수 없었다.
+
+
 http://www.chembio.t.u-tokyo.ac.jp/graduate/
+
+chemistry and biological technology
+
+
+http://www.bioeng.t.u-tokyo.ac.jp/prospective_students/admissions.html
+
+bioengineering
+
+
+※TOEFLの公式スコアを持っていない人は、TOEFL iBT® Special Home EditionあるいはTOEFL iBT® の受験をしてください。
+
+     受験の際、以下の送付先へ、公式スコアの郵送手続を行ってください。
+     
+  　　　DI(Designated Institution)コード："8596"（University of TokyoEngineering 又は U Tokyo Grad Schl Engineering）
+     
+  　　　Department コード："99"(Any Department Not Listed)
+
+
+
 
 
 OKaNe
