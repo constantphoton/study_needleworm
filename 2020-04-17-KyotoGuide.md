@@ -3,6 +3,24 @@ title: kyotoUnive master's
 ---
 
 
+2020.01.03
+---
+
+Lab Selection
+
+1st seeing
+
+umeda 
+
+http://www.sbchem.kyoto-u.ac.jp/umeda-lab/research/research.html
+
+hamachi
+
+http://www.sbchem.kyoto-u.ac.jp/hamachi-lab/index.php?research01
+
+
+
+
 2020.09.20
 ---
 
