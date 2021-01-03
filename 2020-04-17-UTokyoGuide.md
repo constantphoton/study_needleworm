@@ -94,7 +94,6 @@ Dept of Chemistry and biotechnology
 
 http://www.chembio.t.u-tokyo.ac.jp/e/department/lab/index.html
 
-**Hongo campus**
 
 **suzuki lab**
 
@@ -119,6 +118,7 @@ RNA 수식병의 발병 메카니즘
 
 http://park.itc.u-tokyo.ac.jp/phys-biochem/research/
 
+**okamoto**
 
 
 Dept of Bioengineering
